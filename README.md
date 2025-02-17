@@ -13,3 +13,8 @@ References:
 https://stackoverflow.com/questions/456177/function-overloading-in-javascript-best-practices
 
 https://stackoverflow.com/questions/5240024/how-can-i-optimise-this-html-to-render-faster-in-the-browser
+
+(WebGL) Matsuda/Lea Ch5 (About texture)
+(WebGL) Matsuda/Lea Ch7 (About cameras and keyboard events
+(WebGL) Camera Movement Tutorial: http://learnwebgl.brown37.net/07_cameras/camera_movement.htmlLinks to an external site.
+(HTML/Javascript) How to handle keyboard events: https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEventLinks to an external site.
