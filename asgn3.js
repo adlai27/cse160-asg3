@@ -293,7 +293,7 @@ function spawnYarnRocket(){
   // rocket base
   for(let px=0; px<3; px++){
     for(let pz=0; pz<3; pz++){
-      g_blocks[baseX+px][baseZ+pz][0] = 4;  // 4 => "blue yarn" 
+      g_blocks[baseX+px][baseZ+pz][0] = 4;  
     }
   }
   // second layer
@@ -412,7 +412,7 @@ function initTextures(){
   brickImg.src     = "brick.jpg";
   fishImg.src      = "salmon.jpg";
   woodImg.src      = "woodblock.jpg";
-  blueYarnImg.src  = "blueyarn.jpg"; // your new image
+  blueYarnImg.src  = "blueyarn.jpg"; //
 }
 
 // same function as before
